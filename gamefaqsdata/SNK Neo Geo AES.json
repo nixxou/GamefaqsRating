@@ -1,0 +1,962 @@
+{
+                "8678": {
+                    "name": "Sengoku 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565652-sengoku-2",
+                    "rating": "3.78",
+                    "difficulty": "3.18",
+                    "lenght": "19.53",
+                    "vote": 50,
+                    "LaunchboxID": "8678",
+                    "LaunchboxTitle": "Sengoku 2"
+                },
+                "977": {
+                    "name": "The King of Fighters '94",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565669-the-king-of-fighters-94",
+                    "rating": "3.58",
+                    "difficulty": "3.71",
+                    "lenght": "22.93",
+                    "vote": 100,
+                    "LaunchboxID": "977",
+                    "LaunchboxTitle": "The King of Fighters '94"
+                },
+                "224": {
+                    "name": "Metal Slug 3",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562940-metal-slug-3",
+                    "rating": "4.22",
+                    "difficulty": "3.81",
+                    "lenght": "16.05",
+                    "vote": 100,
+                    "LaunchboxID": "224",
+                    "LaunchboxTitle": "Metal Slug 3"
+                },
+                "1486": {
+                    "name": "2020 Super Baseball",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582033-2020-super-baseball",
+                    "rating": "3.35",
+                    "difficulty": "3.52",
+                    "lenght": "45.06",
+                    "vote": 5,
+                    "LaunchboxID": "1486",
+                    "LaunchboxTitle": "2020 Super Baseball"
+                },
+                "10063": {
+                    "name": "The King of Fighters 2001",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/560771-the-king-of-fighters-2001",
+                    "rating": "3.42",
+                    "difficulty": "3.56",
+                    "lenght": "16.36",
+                    "vote": 50,
+                    "LaunchboxID": "10063",
+                    "LaunchboxTitle": "The King of Fighters 2001"
+                },
+                "6469": {
+                    "name": "Breakers",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565710-breakers",
+                    "rating": "3.61",
+                    "difficulty": "3.15",
+                    "lenght": "28.76",
+                    "vote": 5,
+                    "LaunchboxID": "6469",
+                    "LaunchboxTitle": "Breakers"
+                },
+                "1338": {
+                    "name": "NAM-1975",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582013-nam-1975",
+                    "rating": "3.62",
+                    "difficulty": "3.62",
+                    "lenght": "23.34",
+                    "vote": 50,
+                    "LaunchboxID": "1338",
+                    "LaunchboxTitle": "NAM-1975"
+                },
+                "8680": {
+                    "name": "Street Hoop",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565671-street-hoop",
+                    "rating": "3.59",
+                    "difficulty": "3.57",
+                    "lenght": "12.00",
+                    "vote": 5,
+                    "LaunchboxID": "8680",
+                    "LaunchboxTitle": "Street Hoop"
+                },
+                "989": {
+                    "name": "World Heroes 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565654-world-heroes-2",
+                    "rating": "3.29",
+                    "difficulty": "3.24",
+                    "lenght": "32.31",
+                    "vote": 5,
+                    "LaunchboxID": "989",
+                    "LaunchboxTitle": "World Heroes 2"
+                },
+                "10455": {
+                    "name": "OverTop",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/922362-overtop",
+                    "rating": "3.50",
+                    "difficulty": "3.25",
+                    "lenght": "06.54",
+                    "vote": 5,
+                    "LaunchboxID": "10455",
+                    "LaunchboxTitle": "Over Top"
+                },
+                "18534": {
+                    "name": "Karnov's Revenge",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565538-karnovs-revenge",
+                    "rating": "3.34",
+                    "difficulty": "3.45",
+                    "lenght": "20.47",
+                    "vote": 5,
+                    "LaunchboxID": "18534",
+                    "LaunchboxTitle": "Karnov's Revenge"
+                },
+                "978": {
+                    "name": "The King of Fighters '95",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563369-the-king-of-fighters-95",
+                    "rating": "3.74",
+                    "difficulty": "3.65",
+                    "lenght": "22.48",
+                    "vote": 100,
+                    "LaunchboxID": "978",
+                    "LaunchboxTitle": "The King of Fighters '95"
+                },
+                "10478": {
+                    "name": "The Ultimate 11",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/587052-the-ultimate-11",
+                    "rating": "3.80",
+                    "difficulty": "4.00",
+                    "lenght": "00.89",
+                    "vote": 5,
+                    "LaunchboxID": "10478",
+                    "LaunchboxTitle": "The Ultimate 11: SNK Football Championship"
+                },
+                "10487": {
+                    "name": "World Heroes 2 Jet",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565662-world-heroes-2-jet",
+                    "rating": "3.35",
+                    "difficulty": "3.33",
+                    "lenght": "29.39",
+                    "vote": 50,
+                    "LaunchboxID": "10487",
+                    "LaunchboxTitle": "World Heroes 2 Jet"
+                },
+                "10472": {
+                    "name": "Sengoku 3",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562718-sengoku-3",
+                    "rating": "3.86",
+                    "difficulty": "3.40",
+                    "lenght": "20.70",
+                    "vote": 50,
+                    "LaunchboxID": "10472",
+                    "LaunchboxTitle": "Sengoku 3"
+                },
+                "1500": {
+                    "name": "Robo Army",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582034-robo-army",
+                    "rating": "3.51",
+                    "difficulty": "3.55",
+                    "lenght": "14.15",
+                    "vote": 5,
+                    "LaunchboxID": "1500",
+                    "LaunchboxTitle": "Robo Army"
+                },
+                "10474": {
+                    "name": "Soccer Brawl",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582040-soccer-brawl",
+                    "rating": "3.58",
+                    "difficulty": "3.56",
+                    "lenght": "16.41",
+                    "vote": 5,
+                    "LaunchboxID": "10474",
+                    "LaunchboxTitle": "Soccer Brawl"
+                },
+                "1494": {
+                    "name": "Last Resort",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582041-last-resort",
+                    "rating": "3.65",
+                    "difficulty": "3.69",
+                    "lenght": "32.75",
+                    "vote": 50,
+                    "LaunchboxID": "1494",
+                    "LaunchboxTitle": "Last Resort"
+                },
+                "1492": {
+                    "name": "Fatal Fury Special",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565656-fatal-fury-special",
+                    "rating": "3.86",
+                    "difficulty": "3.67",
+                    "lenght": "27.51",
+                    "vote": 100,
+                    "LaunchboxID": "1492",
+                    "LaunchboxTitle": "Fatal Fury Special"
+                },
+                "1496": {
+                    "name": "Mutation Nation",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563060-mutation-nation",
+                    "rating": "3.41",
+                    "difficulty": "3.31",
+                    "lenght": "22.15",
+                    "vote": 5,
+                    "LaunchboxID": "1496",
+                    "LaunchboxTitle": "Mutation Nation"
+                },
+                "1336": {
+                    "name": "Garou: Mark of the Wolves",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562920-garou-mark-of-the-wolves",
+                    "rating": "4.39",
+                    "difficulty": "3.17",
+                    "lenght": "17.57",
+                    "vote": 100,
+                    "LaunchboxID": "1336",
+                    "LaunchboxTitle": "Garou: Mark of the Wolves"
+                },
+                "10061": {
+                    "name": "Puzzled",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582025-puzzled",
+                    "rating": "3.32",
+                    "difficulty": "3.94",
+                    "lenght": "08.40",
+                    "vote": 5,
+                    "LaunchboxID": "10061",
+                    "LaunchboxTitle": "Puzzled"
+                },
+                "8677": {
+                    "name": "Sengoku",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582028-sengoku",
+                    "rating": "3.40",
+                    "difficulty": "3.34",
+                    "lenght": "22.28",
+                    "vote": 50,
+                    "LaunchboxID": "8677",
+                    "LaunchboxTitle": "Sengoku"
+                },
+                "18829": {
+                    "name": "Art of Fighting",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565647-art-of-fighting",
+                    "rating": "3.12",
+                    "difficulty": "3.71",
+                    "lenght": "20.53",
+                    "vote": 100,
+                    "LaunchboxID": "18829",
+                    "LaunchboxTitle": "Art of Fighting"
+                },
+                "2608": {
+                    "name": "League Bowling",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582026-league-bowling",
+                    "rating": "3.31",
+                    "difficulty": "2.72",
+                    "lenght": "04.07",
+                    "vote": 5,
+                    "LaunchboxID": "2608",
+                    "LaunchboxTitle": "League Bowling"
+                },
+                "1504": {
+                    "name": "Samurai Shodown III",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565689-samurai-shodown-iii",
+                    "rating": "3.82",
+                    "difficulty": "3.57",
+                    "lenght": "25.76",
+                    "vote": 50,
+                    "LaunchboxID": "1504",
+                    "LaunchboxTitle": "Samurai Shodown III"
+                },
+                "226": {
+                    "name": "Metal Slug 5",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/915092-metal-slug-5",
+                    "rating": "3.98",
+                    "difficulty": "3.67",
+                    "lenght": "19.15",
+                    "vote": 50,
+                    "LaunchboxID": "226",
+                    "LaunchboxTitle": "Metal Slug 5"
+                },
+                "1508": {
+                    "name": "The Last Blade",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/564852-the-last-blade",
+                    "rating": "4.21",
+                    "difficulty": "3.18",
+                    "lenght": "22.69",
+                    "vote": 50,
+                    "LaunchboxID": "1508",
+                    "LaunchboxTitle": "The Last Blade"
+                },
+                "8267": {
+                    "name": "Samurai Shodown V Special",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/919811-samurai-shodown-v-special",
+                    "rating": "4.09",
+                    "difficulty": "3.16",
+                    "lenght": "34.97",
+                    "vote": 50,
+                    "LaunchboxID": "8267",
+                    "LaunchboxTitle": "Samurai Shodown V Special"
+                },
+                "6471": {
+                    "name": "Crossed Swords",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582032-crossed-swords",
+                    "rating": "3.06",
+                    "difficulty": "3.85",
+                    "lenght": "05.14",
+                    "vote": 5,
+                    "LaunchboxID": "6471",
+                    "LaunchboxTitle": "Crossed Swords"
+                },
+                "990": {
+                    "name": "World Heroes Perfect",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563378-world-heroes-perfect",
+                    "rating": "3.50",
+                    "difficulty": "3.37",
+                    "lenght": "30.89",
+                    "vote": 50,
+                    "LaunchboxID": "990",
+                    "LaunchboxTitle": "World Heroes Perfect"
+                },
+                "981": {
+                    "name": "The King of Fighters '99: Millennium Battle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562716-the-king-of-fighters-99-millennium-battle",
+                    "rating": "3.92",
+                    "difficulty": "3.19",
+                    "lenght": "22.02",
+                    "vote": 50,
+                    "LaunchboxID": "981",
+                    "LaunchboxTitle": "The King of Fighters '99: Millennium Battle"
+                },
+                "1491": {
+                    "name": "Fatal Fury 3: Road to the Final Victory",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565679-fatal-fury-3-road-to-the-final-victory",
+                    "rating": "3.69",
+                    "difficulty": "3.68",
+                    "lenght": "14.87",
+                    "vote": 50,
+                    "LaunchboxID": "1491",
+                    "LaunchboxTitle": "Fatal Fury 3: Road to the Final Victory"
+                },
+                "18533": {
+                    "name": "The King of Fighters '98: The Slugfest",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562643-the-king-of-fighters-98-the-slugfest",
+                    "rating": "4.33",
+                    "difficulty": "3.37",
+                    "lenght": "24.35",
+                    "vote": 100,
+                    "LaunchboxID": "18533",
+                    "LaunchboxTitle": "The King of Fighters '98"
+                },
+                "10470": {
+                    "name": "Samurai Shodown V",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/917922-samurai-shodown-v",
+                    "rating": "3.89",
+                    "difficulty": "3.21",
+                    "lenght": "27.58",
+                    "vote": 50,
+                    "LaunchboxID": "10470",
+                    "LaunchboxTitle": "Samurai Shodown V"
+                },
+                "983": {
+                    "name": "Magical Drop III",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563372-magical-drop-iii",
+                    "rating": "4.03",
+                    "difficulty": "3.74",
+                    "lenght": "14.75",
+                    "vote": 5,
+                    "LaunchboxID": "983",
+                    "LaunchboxTitle": "Magical Drop III"
+                },
+                "10483": {
+                    "name": "Top Hunter",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565663-top-hunter",
+                    "rating": "3.51",
+                    "difficulty": "3.26",
+                    "lenght": "05.94",
+                    "vote": 5,
+                    "LaunchboxID": "10483",
+                    "LaunchboxTitle": "Top Hunter: Roddy & Cathy"
+                },
+                "8262": {
+                    "name": "Kizuna Encounter: Super Tag Battle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562621-kizuna-encounter-super-tag-battle",
+                    "rating": "3.43",
+                    "difficulty": "3.48",
+                    "lenght": "23.79",
+                    "vote": 5,
+                    "LaunchboxID": "8262",
+                    "LaunchboxTitle": "Kizuna Encounter: Super Tag Battle"
+                },
+                "1516": {
+                    "name": "WindJammers",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565658-windjammers",
+                    "rating": "4.08",
+                    "difficulty": "3.15",
+                    "lenght": "36.94",
+                    "vote": 50,
+                    "LaunchboxID": "1516",
+                    "LaunchboxTitle": "Windjammers"
+                },
+                "18532": {
+                    "name": "Double Dragon",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565675-double-dragon",
+                    "rating": "3.32",
+                    "difficulty": "3.27",
+                    "lenght": "26.56",
+                    "vote": 5,
+                    "LaunchboxID": "18532",
+                    "LaunchboxTitle": "Double Dragon"
+                },
+                "10065": {
+                    "name": "King of the Monsters 2: The Next Thing",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562709-king-of-the-monsters-2-the-next-thing",
+                    "rating": "3.10",
+                    "difficulty": "3.55",
+                    "lenght": "46.65",
+                    "vote": 5,
+                    "LaunchboxID": "10065",
+                    "LaunchboxTitle": "King of the Monsters 2: The Next Thing"
+                },
+                "10482": {
+                    "name": "SVC Chaos: SNK vs. Capcom",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/914539-svc-chaos-snk-vs-capcom",
+                    "rating": "3.68",
+                    "difficulty": "3.39",
+                    "lenght": "31.05",
+                    "vote": 50,
+                    "LaunchboxID": "10482",
+                    "LaunchboxTitle": "SVC Chaos: SNK vs. Capcom"
+                },
+                "1513": {
+                    "name": "Viewpoint",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565648-viewpoint",
+                    "rating": "3.94",
+                    "difficulty": "3.52",
+                    "lenght": "49.94",
+                    "vote": 5,
+                    "LaunchboxID": "1513",
+                    "LaunchboxTitle": "Viewpoint"
+                },
+                "10467": {
+                    "name": "Real Bout Fatal Fury Special",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565711-real-bout-fatal-fury-special",
+                    "rating": "4.13",
+                    "difficulty": "3.34",
+                    "lenght": "24.56",
+                    "vote": 50,
+                    "LaunchboxID": "10467",
+                    "LaunchboxTitle": "Real Bout Fatal Fury Special"
+                },
+                "10468": {
+                    "name": "Rage of the Dragons",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/561248-rage-of-the-dragons",
+                    "rating": "3.47",
+                    "difficulty": "3.71",
+                    "lenght": "15.37",
+                    "vote": 50,
+                    "LaunchboxID": "10468",
+                    "LaunchboxTitle": "Rage of the Dragons"
+                },
+                "980": {
+                    "name": "The King of Fighters '97",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562714-the-king-of-fighters-97",
+                    "rating": "4.15",
+                    "difficulty": "3.24",
+                    "lenght": "29.66",
+                    "vote": 100,
+                    "LaunchboxID": "980",
+                    "LaunchboxTitle": "The King of Fighters '97"
+                },
+                "1498": {
+                    "name": "Ninja Masters",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565703-ninja-masters",
+                    "rating": "3.63",
+                    "difficulty": "3.39",
+                    "lenght": "48.43",
+                    "vote": 5,
+                    "LaunchboxID": "1498",
+                    "LaunchboxTitle": "Ninja Master's: Haoh Ninpo Cho"
+                },
+                "18959": {
+                    "name": "Quiz King of Fighters",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565674-quiz-king-of-fighters",
+                    "rating": "3.19",
+                    "difficulty": "3.60",
+                    "lenght": "12.81",
+                    "vote": 5,
+                    "LaunchboxID": "18959",
+                    "LaunchboxTitle": "Quiz King of Fighters"
+                },
+                "976": {
+                    "name": "Ghost Pilots",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582027-ghost-pilots",
+                    "rating": "3.12",
+                    "difficulty": "4.07",
+                    "lenght": "12.13",
+                    "vote": 5,
+                    "LaunchboxID": "976",
+                    "LaunchboxTitle": "Ghost Pilots"
+                },
+                "10064": {
+                    "name": "The King of Fighters 2002",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/914531-the-king-of-fighters-2002",
+                    "rating": "4.13",
+                    "difficulty": "3.20",
+                    "lenght": "35.96",
+                    "vote": 100,
+                    "LaunchboxID": "10064",
+                    "LaunchboxTitle": "The King of Fighters 2002"
+                },
+                "6468": {
+                    "name": "Blazing Star",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/575735-blazing-star",
+                    "rating": "4.08",
+                    "difficulty": "3.82",
+                    "lenght": "16.03",
+                    "vote": 50,
+                    "LaunchboxID": "6468",
+                    "LaunchboxTitle": "Blazing Star"
+                },
+                "2862": {
+                    "name": "Fatal Fury 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565649-fatal-fury-2",
+                    "rating": "3.46",
+                    "difficulty": "3.67",
+                    "lenght": "18.60",
+                    "vote": 50,
+                    "LaunchboxID": "2862",
+                    "LaunchboxTitle": "Fatal Fury 2"
+                },
+                "223": {
+                    "name": "Metal Slug 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562637-metal-slug-2",
+                    "rating": "4.01",
+                    "difficulty": "3.64",
+                    "lenght": "15.14",
+                    "vote": 100,
+                    "LaunchboxID": "223",
+                    "LaunchboxTitle": "Metal Slug 2"
+                },
+                "984": {
+                    "name": "Samurai Shodown II",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/519956-samurai-shodown-ii",
+                    "rating": "4.26",
+                    "difficulty": "3.43",
+                    "lenght": "26.65",
+                    "vote": 100,
+                    "LaunchboxID": "984",
+                    "LaunchboxTitle": "Samurai Shodown II"
+                },
+                "10473": {
+                    "name": "Shock Troopers",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/640380-shock-troopers",
+                    "rating": "4.01",
+                    "difficulty": "3.49",
+                    "lenght": "12.56",
+                    "vote": 50,
+                    "LaunchboxID": "10473",
+                    "LaunchboxTitle": "Shock Troopers: 2nd Squad"
+                },
+                "10050": {
+                    "name": "Blue's Journey",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582029-blues-journey",
+                    "rating": "3.24",
+                    "difficulty": "3.48",
+                    "lenght": "05.32",
+                    "vote": 5,
+                    "LaunchboxID": "10050",
+                    "LaunchboxTitle": "Blue's Journey"
+                },
+                "744": {
+                    "name": "Samurai Shodown",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565655-samurai-shodown",
+                    "rating": "4.03",
+                    "difficulty": "3.59",
+                    "lenght": "24.16",
+                    "vote": 100,
+                    "LaunchboxID": "744",
+                    "LaunchboxTitle": "Samurai Shodown"
+                },
+                "1497": {
+                    "name": "Ninja Commando",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565644-ninja-commando",
+                    "rating": "3.50",
+                    "difficulty": "3.59",
+                    "lenght": "12.07",
+                    "vote": 5,
+                    "LaunchboxID": "1497",
+                    "LaunchboxTitle": "Ninja Commando"
+                },
+                "2907": {
+                    "name": "Fatal Fury",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582037-fatal-fury",
+                    "rating": "3.32",
+                    "difficulty": "3.68",
+                    "lenght": "17.02",
+                    "vote": 100,
+                    "LaunchboxID": "2907",
+                    "LaunchboxTitle": "Fatal Fury"
+                },
+                "8675": {
+                    "name": "Pulstar",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565682-pulstar",
+                    "rating": "3.92",
+                    "difficulty": "4.29",
+                    "lenght": "15.89",
+                    "vote": 5,
+                    "LaunchboxID": "8675",
+                    "LaunchboxTitle": "Pulstar"
+                },
+                "8674": {
+                    "name": "Neo Turf Masters",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565697-neo-turf-masters",
+                    "rating": "3.90",
+                    "difficulty": "3.18",
+                    "lenght": "15.60",
+                    "vote": 50,
+                    "LaunchboxID": "8674",
+                    "LaunchboxTitle": "Neo Turf Masters"
+                },
+                "10480": {
+                    "name": "Stakes Winner 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565706-stakes-winner-2",
+                    "rating": "3.46",
+                    "difficulty": "3.70",
+                    "lenght": "23.50",
+                    "vote": 5,
+                    "LaunchboxID": "10480",
+                    "LaunchboxTitle": "Stakes Winner 2"
+                },
+                "10479": {
+                    "name": "Stakes Winner",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565684-stakes-winner",
+                    "rating": "3.50",
+                    "difficulty": "3.91",
+                    "lenght": "22.29",
+                    "vote": 5,
+                    "LaunchboxID": "10479",
+                    "LaunchboxTitle": "Stakes Winner"
+                },
+                "1510": {
+                    "name": "The Last Blade 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/919840-the-last-blade-2",
+                    "rating": "4.41",
+                    "difficulty": "3.28",
+                    "lenght": "29.36",
+                    "vote": 100,
+                    "LaunchboxID": "1510",
+                    "LaunchboxTitle": "The Last Blade 2"
+                },
+                "988": {
+                    "name": "World Heroes",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565645-world-heroes",
+                    "rating": "3.17",
+                    "difficulty": "3.30",
+                    "lenght": "24.29",
+                    "vote": 5,
+                    "LaunchboxID": "988",
+                    "LaunchboxTitle": "World Heroes"
+                },
+                "10475": {
+                    "name": "SpinMaster",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/587051-spinmaster",
+                    "rating": "3.80",
+                    "difficulty": "3.12",
+                    "lenght": "03.70",
+                    "vote": 5,
+                    "LaunchboxID": "10475",
+                    "LaunchboxTitle": "Spinmaster"
+                },
+                "1495": {
+                    "name": "Magician Lord",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563373-magician-lord",
+                    "rating": "3.36",
+                    "difficulty": "4.19",
+                    "lenght": "21.21",
+                    "vote": 50,
+                    "LaunchboxID": "1495",
+                    "LaunchboxTitle": "Magician Lord"
+                },
+                "982": {
+                    "name": "Magical Drop 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563371-magical-drop-2",
+                    "rating": "3.88",
+                    "difficulty": "3.41",
+                    "lenght": "35.32",
+                    "vote": 5,
+                    "LaunchboxID": "982",
+                    "LaunchboxTitle": "Magical Drop II"
+                },
+                "1493": {
+                    "name": "Kabuki Klash",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565680-kabuki-klash",
+                    "rating": "3.17",
+                    "difficulty": "3.05",
+                    "lenght": "21.67",
+                    "vote": 5,
+                    "LaunchboxID": "1493",
+                    "LaunchboxTitle": "Far East of Eden: Kabuki Klash"
+                },
+                "742": {
+                    "name": "Aero Fighters 3",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/587028-aero-fighters-3",
+                    "rating": "3.82",
+                    "difficulty": "3.77",
+                    "lenght": "19.48",
+                    "vote": 5,
+                    "LaunchboxID": "742",
+                    "LaunchboxTitle": "Aero Fighters 3"
+                },
+                "10466": {
+                    "name": "Real Bout Fatal Fury 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/564341-real-bout-fatal-fury-2",
+                    "rating": "4.12",
+                    "difficulty": "3.47",
+                    "lenght": "22.53",
+                    "vote": 50,
+                    "LaunchboxID": "10466",
+                    "LaunchboxTitle": "Real Bout Fatal Fury 2: The Newcomers"
+                },
+                "1512": {
+                    "name": "Twinkle Star Sprites",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565709-twinkle-star-sprites",
+                    "rating": "3.72",
+                    "difficulty": "3.29",
+                    "lenght": "10.56",
+                    "vote": 5,
+                    "LaunchboxID": "1512",
+                    "LaunchboxTitle": "Twinkle Star Sprites"
+                },
+                "6472": {
+                    "name": "Cyber-Lip",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582024-cyber-lip",
+                    "rating": "3.24",
+                    "difficulty": "3.51",
+                    "lenght": "25.50",
+                    "vote": 5,
+                    "LaunchboxID": "6472",
+                    "LaunchboxTitle": "Cyber-Lip"
+                },
+                "743": {
+                    "name": "Aero Fighters 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565666-aero-fighters-2",
+                    "rating": "3.99",
+                    "difficulty": "3.69",
+                    "lenght": "21.78",
+                    "vote": 50,
+                    "LaunchboxID": "743",
+                    "LaunchboxTitle": "Aero Fighters 2"
+                },
+                "1488": {
+                    "name": "Baseball Stars 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565643-baseball-stars-2",
+                    "rating": "3.96",
+                    "difficulty": "3.22",
+                    "lenght": "35.19",
+                    "vote": 50,
+                    "LaunchboxID": "1488",
+                    "LaunchboxTitle": "Baseball Stars 2"
+                },
+                "10036": {
+                    "name": "Alpha Mission II",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582030-alpha-mission-ii",
+                    "rating": "3.50",
+                    "difficulty": "3.67",
+                    "lenght": "17.06",
+                    "vote": 50,
+                    "LaunchboxID": "10036",
+                    "LaunchboxTitle": "Alpha Mission II"
+                },
+                "1514": {
+                    "name": "Voltage Fighter Gowcaizer",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565683-voltage-fighter-gowcaizer",
+                    "rating": "3.43",
+                    "difficulty": "3.14",
+                    "lenght": "18.71",
+                    "vote": 5,
+                    "LaunchboxID": "1514",
+                    "LaunchboxTitle": "Voltage Fighter: Gowcaizer"
+                },
+                "979": {
+                    "name": "The King of Fighters '96",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563370-the-king-of-fighters-96",
+                    "rating": "3.99",
+                    "difficulty": "3.31",
+                    "lenght": "22.81",
+                    "vote": 100,
+                    "LaunchboxID": "979",
+                    "LaunchboxTitle": "The King of Fighters '96"
+                },
+                "10486": {
+                    "name": "Waku Waku 7",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563377-waku-waku-7",
+                    "rating": "3.75",
+                    "difficulty": "3.38",
+                    "lenght": "17.07",
+                    "vote": 50,
+                    "LaunchboxID": "10486",
+                    "LaunchboxTitle": "Waku Waku 7"
+                },
+                "10062": {
+                    "name": "The King of Fighters 2000",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/526264-the-king-of-fighters-2000",
+                    "rating": "3.99",
+                    "difficulty": "3.32",
+                    "lenght": "17.39",
+                    "vote": 50,
+                    "LaunchboxID": "10062",
+                    "LaunchboxTitle": "The King of Fighters 2000"
+                },
+                "225": {
+                    "name": "Metal Slug 4",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/552358-metal-slug-4",
+                    "rating": "3.88",
+                    "difficulty": "3.72",
+                    "lenght": "16.13",
+                    "vote": 100,
+                    "LaunchboxID": "225",
+                    "LaunchboxTitle": "Metal Slug 4"
+                },
+                "1334": {
+                    "name": "Art of Fighting 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562710-art-of-fighting-2",
+                    "rating": "3.26",
+                    "difficulty": "3.81",
+                    "lenght": "23.19",
+                    "vote": 100,
+                    "LaunchboxID": "1334",
+                    "LaunchboxTitle": "Art of Fighting 2"
+                },
+                "10477": {
+                    "name": "Super Sidekicks 2",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565661-super-sidekicks-2",
+                    "rating": "3.59",
+                    "difficulty": "3.79",
+                    "lenght": "10.50",
+                    "vote": 5,
+                    "LaunchboxID": "10477",
+                    "LaunchboxTitle": "Super Sidekicks 2: The World Championship"
+                },
+                "6465": {
+                    "name": "Art of Fighting 3",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563368-art-of-fighting-3",
+                    "rating": "3.33",
+                    "difficulty": "3.25",
+                    "lenght": "19.62",
+                    "vote": 5,
+                    "LaunchboxID": "6465",
+                    "LaunchboxTitle": "Art of Fighting 3: The Path of the Warrior"
+                },
+                "1340": {
+                    "name": "Thrash Rally",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/587055-thrash-rally",
+                    "rating": "3.52",
+                    "difficulty": "3.71",
+                    "lenght": "17.15",
+                    "vote": 5,
+                    "LaunchboxID": "1340",
+                    "LaunchboxTitle": "Thrash Rally"
+                },
+                "10056": {
+                    "name": "Galaxy Fight",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565672-galaxy-fight",
+                    "rating": "3.32",
+                    "difficulty": "3.63",
+                    "lenght": "39.00",
+                    "vote": 5,
+                    "LaunchboxID": "10056",
+                    "LaunchboxTitle": "Galaxy Fight: Universal Warriors"
+                },
+                "10476": {
+                    "name": "Super Sidekicks",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565651-super-sidekicks",
+                    "rating": "3.45",
+                    "difficulty": "3.71",
+                    "lenght": "11.10",
+                    "vote": 5,
+                    "LaunchboxID": "10476",
+                    "LaunchboxTitle": "Super Sidekicks"
+                },
+                "985": {
+                    "name": "Samurai Shodown IV: Amakusa's Revenge",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562713-samurai-shodown-iv-amakusas-revenge",
+                    "rating": "4.13",
+                    "difficulty": "3.08",
+                    "lenght": "25.37",
+                    "vote": 50,
+                    "LaunchboxID": "985",
+                    "LaunchboxTitle": "Samurai Shodown IV: Amakusa's Revenge"
+                },
+                "8505": {
+                    "name": "Neo-Geo Cup '98: The Road to Victory",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562677-neo-geo-cup-98-the-road-to-victory",
+                    "rating": "3.42",
+                    "difficulty": "3.22",
+                    "lenght": "01.10",
+                    "vote": 5,
+                    "LaunchboxID": "8505",
+                    "LaunchboxTitle": "Neo Geo Cup '98: The Road to the Victory"
+                },
+                "10465": {
+                    "name": "Real Bout Fatal Fury",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565691-real-bout-fatal-fury",
+                    "rating": "3.79",
+                    "difficulty": "3.62",
+                    "lenght": "15.32",
+                    "vote": 50,
+                    "LaunchboxID": "10465",
+                    "LaunchboxTitle": "Real Bout Fatal Fury"
+                },
+                "973": {
+                    "name": "Metal Slug X",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/562877-metal-slug-x",
+                    "rating": "4.23",
+                    "difficulty": "3.60",
+                    "lenght": "19.00",
+                    "vote": 100,
+                    "LaunchboxID": "973",
+                    "LaunchboxTitle": "Metal Slug X"
+                },
+                "8261": {
+                    "name": "The King of Fighters 2003",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/919782-the-king-of-fighters-2003",
+                    "rating": "4.06",
+                    "difficulty": "3.11",
+                    "lenght": "29.50",
+                    "vote": 50,
+                    "LaunchboxID": "8261",
+                    "LaunchboxTitle": "The King of Fighters 2003"
+                },
+                "1489": {
+                    "name": "Baseball Stars Professional",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/582015-baseball-stars-professional",
+                    "rating": "3.15",
+                    "difficulty": "3.38",
+                    "lenght": "20.93",
+                    "vote": 5,
+                    "LaunchboxID": "1489",
+                    "LaunchboxTitle": "Baseball Stars Professional"
+                },
+                "10277": {
+                    "name": "Super Sidekicks 3",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/565677-super-sidekicks-3",
+                    "rating": "3.47",
+                    "difficulty": "3.55",
+                    "lenght": "20.91",
+                    "vote": 5,
+                    "LaunchboxID": "10277",
+                    "LaunchboxTitle": "Super Sidekicks 3: The Next Glory"
+                },
+                "1339": {
+                    "name": "Savage Reign",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/563375-savage-reign",
+                    "rating": "3.30",
+                    "difficulty": "3.70",
+                    "lenght": "24.08",
+                    "vote": 5,
+                    "LaunchboxID": "1339",
+                    "LaunchboxTitle": "Savage Reign"
+                },
+                "6464": {
+                    "name": "Andro Dunos",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/neo\/587030-andro-dunos",
+                    "rating": "3.21",
+                    "difficulty": "3.44",
+                    "lenght": "23.21",
+                    "vote": 5,
+                    "LaunchboxID": "6464",
+                    "LaunchboxTitle": "Andro Dunos"
+                }
+            }

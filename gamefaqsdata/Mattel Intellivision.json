@@ -1,0 +1,992 @@
+{
+                "4074": {
+                    "name": "Mission X",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576734-mission-x",
+                    "rating": "3.39",
+                    "difficulty": "3.58",
+                    "lenght": "04.20",
+                    "vote": 5,
+                    "LaunchboxID": "4074",
+                    "LaunchboxTitle": "Mission-X"
+                },
+                "9367": {
+                    "name": "Advanced Dungeons & Dragons: Treasure of Tarmin",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576718-advanced-dungeons-and-dragons-treasure-of-tarmin",
+                    "rating": "3.46",
+                    "difficulty": "3.68",
+                    "lenght": "16.38",
+                    "vote": 5,
+                    "LaunchboxID": "9367",
+                    "LaunchboxTitle": "Advanced Dungeons & Dragons: Treasure of Tarmin Cartridge"
+                },
+                "4099": {
+                    "name": "TRON Deadly Discs",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576743-tron-deadly-discs",
+                    "rating": "3.84",
+                    "difficulty": "3.59",
+                    "lenght": "02.71",
+                    "vote": 5,
+                    "LaunchboxID": "4099",
+                    "LaunchboxTitle": "Tron: Deadly Discs"
+                },
+                "10540": {
+                    "name": "Scooby Doo's Maze Chase",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577245-scooby-doos-maze-chase",
+                    "rating": "4.10",
+                    "difficulty": "3.56",
+                    "lenght": "06.83",
+                    "vote": 5,
+                    "LaunchboxID": "10540",
+                    "LaunchboxTitle": "Scooby Doo's Maze Chase"
+                },
+                "10498": {
+                    "name": "Major League Baseball",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/926511-major-league-baseball",
+                    "rating": "3.54",
+                    "difficulty": "2.81",
+                    "lenght": "12.50",
+                    "vote": 5,
+                    "LaunchboxID": "10498",
+                    "LaunchboxTitle": "Major League Baseball"
+                },
+                "10548": {
+                    "name": "Super Pro Decathlon",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/915751-super-pro-decathlon",
+                    "rating": "3.20",
+                    "difficulty": "3.70",
+                    "lenght": "03.36",
+                    "vote": 5,
+                    "LaunchboxID": "10548",
+                    "LaunchboxTitle": "Super Pro Decathlon"
+                },
+                "10551": {
+                    "name": "Thunder Castle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577296-thunder-castle",
+                    "rating": "3.50",
+                    "difficulty": "3.70",
+                    "lenght": "03.04",
+                    "vote": 5,
+                    "LaunchboxID": "10551",
+                    "LaunchboxTitle": "Thunder Castle"
+                },
+                "4088": {
+                    "name": "Snafu",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/565759-snafu",
+                    "rating": "3.88",
+                    "difficulty": "2.76",
+                    "lenght": "04.55",
+                    "vote": 50,
+                    "LaunchboxID": "4088",
+                    "LaunchboxTitle": "Snafu"
+                },
+                "4050": {
+                    "name": "Advanced Dungeons & Dragons",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576720-advanced-dungeons-and-dragons",
+                    "rating": "3.73",
+                    "difficulty": "3.67",
+                    "lenght": "07.47",
+                    "vote": 50,
+                    "LaunchboxID": "4050",
+                    "LaunchboxTitle": "Advanced Dungeons & Dragons"
+                },
+                "10559": {
+                    "name": "White Water!",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577306-white-water",
+                    "rating": "3.56",
+                    "difficulty": "3.50",
+                    "lenght": "03.83",
+                    "vote": 5,
+                    "LaunchboxID": "10559",
+                    "LaunchboxTitle": "White Water!"
+                },
+                "10537": {
+                    "name": "River Raid",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577223-river-raid",
+                    "rating": "4.00",
+                    "difficulty": "3.27",
+                    "lenght": "07.00",
+                    "vote": 5,
+                    "LaunchboxID": "10537",
+                    "LaunchboxTitle": "River Raid"
+                },
+                "4053": {
+                    "name": "Auto Racing",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576722-auto-racing",
+                    "rating": "3.21",
+                    "difficulty": "3.52",
+                    "lenght": "06.53",
+                    "vote": 5,
+                    "LaunchboxID": "4053",
+                    "LaunchboxTitle": "Auto Racing"
+                },
+                "10538": {
+                    "name": "Royal Dealer",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577233-royal-dealer",
+                    "rating": "3.06",
+                    "difficulty": "3.11",
+                    "lenght": "03.20",
+                    "vote": 5,
+                    "LaunchboxID": "10538",
+                    "LaunchboxTitle": "Royal Dealer"
+                },
+                "4098": {
+                    "name": "Triple Action",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/567332-triple-action",
+                    "rating": "3.50",
+                    "difficulty": "2.78",
+                    "lenght": "14.43",
+                    "vote": 5,
+                    "LaunchboxID": "4098",
+                    "LaunchboxTitle": "Triple Action"
+                },
+                "4078": {
+                    "name": "Bowling",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576409-bowling",
+                    "rating": "3.28",
+                    "difficulty": "2.22",
+                    "lenght": "08.71",
+                    "vote": 5,
+                    "LaunchboxID": "4078",
+                    "LaunchboxTitle": "PBA Bowling"
+                },
+                "111576": {
+                    "name": "Land Battle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576972-land-battle",
+                    "rating": "3.30",
+                    "difficulty": "3.56",
+                    "lenght": "03.50",
+                    "vote": 5,
+                    "LaunchboxID": "111576",
+                    "LaunchboxTitle": "Land Battle"
+                },
+                "4095": {
+                    "name": "Sub Hunt",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/567619-sub-hunt",
+                    "rating": "3.59",
+                    "difficulty": "3.79",
+                    "lenght": "03.38",
+                    "vote": 5,
+                    "LaunchboxID": "4095",
+                    "LaunchboxTitle": "Sub Hunt"
+                },
+                "174258": {
+                    "name": "Super Soccer",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577285-super-soccer",
+                    "rating": "3.60",
+                    "difficulty": "---",
+                    "lenght": "---",
+                    "vote": 5,
+                    "LaunchboxID": "174258",
+                    "LaunchboxTitle": "Super Soccer"
+                },
+                "10529": {
+                    "name": "Moto-Cross",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577040-moto-cross",
+                    "rating": "3.39",
+                    "difficulty": "2.82",
+                    "lenght": "11.79",
+                    "vote": 5,
+                    "LaunchboxID": "10529",
+                    "LaunchboxTitle": "Motocross"
+                },
+                "10535": {
+                    "name": "Pinball",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577136-pinball",
+                    "rating": "3.89",
+                    "difficulty": "3.00",
+                    "lenght": "02.19",
+                    "vote": 5,
+                    "LaunchboxID": "10535",
+                    "LaunchboxTitle": "Pinball"
+                },
+                "111189": {
+                    "name": "King of the Mountain",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576913-king-of-the-mountain",
+                    "rating": "3.85",
+                    "difficulty": "2.71",
+                    "lenght": "03.00",
+                    "vote": 5,
+                    "LaunchboxID": "111189",
+                    "LaunchboxTitle": "King of the Mountain"
+                },
+                "4067": {
+                    "name": "Frog Bog",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/567616-frog-bog",
+                    "rating": "3.46",
+                    "difficulty": "2.14",
+                    "lenght": "01.78",
+                    "vote": 5,
+                    "LaunchboxID": "4067",
+                    "LaunchboxTitle": "Frog Bog"
+                },
+                "4086": {
+                    "name": "Sharp Shot",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577264-sharp-shot",
+                    "rating": "3.59",
+                    "difficulty": "1.85",
+                    "lenght": "02.09",
+                    "vote": 5,
+                    "LaunchboxID": "4086",
+                    "LaunchboxTitle": "Sharp Shot"
+                },
+                "10524": {
+                    "name": "The Jetsons' Ways With Words",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576912-the-jetsons-ways-with-words",
+                    "rating": "4.28",
+                    "difficulty": "2.00",
+                    "lenght": "02.83",
+                    "vote": 5,
+                    "LaunchboxID": "10524",
+                    "LaunchboxTitle": "The Jetsons' Ways with Words"
+                },
+                "10556": {
+                    "name": "Tutankham",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577304-tutankham",
+                    "rating": "3.09",
+                    "difficulty": "3.38",
+                    "lenght": "02.50",
+                    "vote": 5,
+                    "LaunchboxID": "10556",
+                    "LaunchboxTitle": "Tutankham"
+                },
+                "10561": {
+                    "name": "Worm Whomper",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577352-worm-whomper",
+                    "rating": "3.90",
+                    "difficulty": "2.44",
+                    "lenght": "02.13",
+                    "vote": 5,
+                    "LaunchboxID": "10561",
+                    "LaunchboxTitle": "Worm Whomper"
+                },
+                "25966": {
+                    "name": "Q*bert",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577214-qbert",
+                    "rating": "3.45",
+                    "difficulty": "4.00",
+                    "lenght": "06.00",
+                    "vote": 5,
+                    "LaunchboxID": "25966",
+                    "LaunchboxTitle": "Q*bert"
+                },
+                "4057": {
+                    "name": "Bomb Squad",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576407-bomb-squad",
+                    "rating": "3.33",
+                    "difficulty": "3.11",
+                    "lenght": "03.00",
+                    "vote": 5,
+                    "LaunchboxID": "4057",
+                    "LaunchboxTitle": "Bomb Squad"
+                },
+                "4073": {
+                    "name": "Microsurgeon",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577027-microsurgeon",
+                    "rating": "3.92",
+                    "difficulty": "4.00",
+                    "lenght": "---",
+                    "vote": 5,
+                    "LaunchboxID": "4073",
+                    "LaunchboxTitle": "Microsurgeon"
+                },
+                "25820": {
+                    "name": "Beauty & the Beast",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576724-beauty-and-the-beast",
+                    "rating": "3.28",
+                    "difficulty": "2.53",
+                    "lenght": "02.79",
+                    "vote": 5,
+                    "LaunchboxID": "25820",
+                    "LaunchboxTitle": "Beauty & the Beast"
+                },
+                "10499": {
+                    "name": "Atlantis",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576401-atlantis",
+                    "rating": "3.48",
+                    "difficulty": "3.59",
+                    "lenght": "04.00",
+                    "vote": 5,
+                    "LaunchboxID": "10499",
+                    "LaunchboxTitle": "Atlantis"
+                },
+                "4049": {
+                    "name": "ABPA Backgammon",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576365-abpa-backgammon",
+                    "rating": "3.17",
+                    "difficulty": "3.36",
+                    "lenght": "02.36",
+                    "vote": 5,
+                    "LaunchboxID": "4049",
+                    "LaunchboxTitle": "ABPA Backgammon"
+                },
+                "10542": {
+                    "name": "Slam Dunk Super Pro Basketball",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576737-slam-dunk-super-pro-basketball",
+                    "rating": "3.22",
+                    "difficulty": "3.14",
+                    "lenght": "21.80",
+                    "vote": 5,
+                    "LaunchboxID": "10542",
+                    "LaunchboxTitle": "Slam Dunk: Super Pro Basketball"
+                },
+                "25819": {
+                    "name": "Bump 'n' Jump",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576726-bump-n-jump",
+                    "rating": "4.21",
+                    "difficulty": "3.67",
+                    "lenght": "12.20",
+                    "vote": 5,
+                    "LaunchboxID": "25819",
+                    "LaunchboxTitle": "Bump 'n' Jump"
+                },
+                "10557": {
+                    "name": "U.S. Ski Team Skiing",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/581779-us-ski-team-skiing",
+                    "rating": "3.56",
+                    "difficulty": "3.12",
+                    "lenght": "08.95",
+                    "vote": 5,
+                    "LaunchboxID": "10557",
+                    "LaunchboxTitle": "U.S. Ski Team Skiing"
+                },
+                "25821": {
+                    "name": "Nova Blast",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577095-nova-blast",
+                    "rating": "3.83",
+                    "difficulty": "2.67",
+                    "lenght": "02.64",
+                    "vote": 5,
+                    "LaunchboxID": "25821",
+                    "LaunchboxTitle": "Nova Blast"
+                },
+                "10510": {
+                    "name": "Diner",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576730-diner",
+                    "rating": "3.75",
+                    "difficulty": "3.31",
+                    "lenght": "02.63",
+                    "vote": 5,
+                    "LaunchboxID": "10510",
+                    "LaunchboxTitle": "Diner"
+                },
+                "10545": {
+                    "name": "Stadium Mud Buggies",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/930773-stadium-mud-buggies",
+                    "rating": "3.65",
+                    "difficulty": "3.58",
+                    "lenght": "04.72",
+                    "vote": 5,
+                    "LaunchboxID": "10545",
+                    "LaunchboxTitle": "Stadium Mud Buggies"
+                },
+                "4097": {
+                    "name": "Tennis",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577289-tennis",
+                    "rating": "3.21",
+                    "difficulty": "2.71",
+                    "lenght": "14.28",
+                    "vote": 5,
+                    "LaunchboxID": "4097",
+                    "LaunchboxTitle": "Tennis"
+                },
+                "4054": {
+                    "name": "B-17 Bomber",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576723-b-17-bomber",
+                    "rating": "3.45",
+                    "difficulty": "3.09",
+                    "lenght": "22.46",
+                    "vote": 5,
+                    "LaunchboxID": "4054",
+                    "LaunchboxTitle": "B-17 Bomber"
+                },
+                "4063": {
+                    "name": "Donkey Kong",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/567311-donkey-kong",
+                    "rating": "3.03",
+                    "difficulty": "2.97",
+                    "lenght": "02.38",
+                    "vote": 50,
+                    "LaunchboxID": "4063",
+                    "LaunchboxTitle": "Donkey Kong"
+                },
+                "10508": {
+                    "name": "Defender",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576565-defender",
+                    "rating": "3.62",
+                    "difficulty": "3.64",
+                    "lenght": "03.88",
+                    "vote": 5,
+                    "LaunchboxID": "10508",
+                    "LaunchboxTitle": "Defender"
+                },
+                "10536": {
+                    "name": "Pole Position",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577190-pole-position",
+                    "rating": "3.37",
+                    "difficulty": "3.25",
+                    "lenght": "09.10",
+                    "vote": 5,
+                    "LaunchboxID": "10536",
+                    "LaunchboxTitle": "Pole Position"
+                },
+                "10512": {
+                    "name": "The Dreadnaught Factor",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576705-the-dreadnaught-factor",
+                    "rating": "4.03",
+                    "difficulty": "3.60",
+                    "lenght": "01.82",
+                    "vote": 5,
+                    "LaunchboxID": "10512",
+                    "LaunchboxTitle": "The Dreadnaught Factor"
+                },
+                "4060": {
+                    "name": "BurgerTime",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/566288-burgertime",
+                    "rating": "3.97",
+                    "difficulty": "3.02",
+                    "lenght": "10.73",
+                    "vote": 50,
+                    "LaunchboxID": "4060",
+                    "LaunchboxTitle": "BurgerTime"
+                },
+                "33266": {
+                    "name": "Hard Hat",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576863-hard-hat",
+                    "rating": "3.06",
+                    "difficulty": "3.13",
+                    "lenght": "03.00",
+                    "vote": 5,
+                    "LaunchboxID": "33266",
+                    "LaunchboxTitle": "Hard Hat"
+                },
+                "4065": {
+                    "name": "Dragonfire",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576731-dragonfire",
+                    "rating": "3.36",
+                    "difficulty": "3.42",
+                    "lenght": "02.00",
+                    "vote": 5,
+                    "LaunchboxID": "4065",
+                    "LaunchboxTitle": "Dragonfire"
+                },
+                "4068": {
+                    "name": "Frogger",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576831-frogger",
+                    "rating": "3.35",
+                    "difficulty": "3.17",
+                    "lenght": "02.67",
+                    "vote": 5,
+                    "LaunchboxID": "4068",
+                    "LaunchboxTitle": "Frogger"
+                },
+                "25967": {
+                    "name": "All-Star Major League Baseball",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576399-all-star-major-league-baseball",
+                    "rating": "3.63",
+                    "difficulty": "2.73",
+                    "lenght": "08.35",
+                    "vote": 5,
+                    "LaunchboxID": "25967",
+                    "LaunchboxTitle": "All-Star Major League Baseball"
+                },
+                "4096": {
+                    "name": "Swords & Serpents",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576741-swords-and-serpents",
+                    "rating": "3.38",
+                    "difficulty": "3.71",
+                    "lenght": "04.83",
+                    "vote": 5,
+                    "LaunchboxID": "4096",
+                    "LaunchboxTitle": "Swords & Serpents"
+                },
+                "10500": {
+                    "name": "Beamrider",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576717-beamrider",
+                    "rating": "4.20",
+                    "difficulty": "3.50",
+                    "lenght": "04.15",
+                    "vote": 5,
+                    "LaunchboxID": "10500",
+                    "LaunchboxTitle": "Beamrider"
+                },
+                "4084": {
+                    "name": "Sea Battle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/565864-sea-battle",
+                    "rating": "3.26",
+                    "difficulty": "3.26",
+                    "lenght": "08.91",
+                    "vote": 5,
+                    "LaunchboxID": "4084",
+                    "LaunchboxTitle": "Sea Battle"
+                },
+                "4094": {
+                    "name": "Star Strike",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576738-star-strike",
+                    "rating": "3.18",
+                    "difficulty": "3.87",
+                    "lenght": "03.08",
+                    "vote": 5,
+                    "LaunchboxID": "4094",
+                    "LaunchboxTitle": "Star Strike"
+                },
+                "4089": {
+                    "name": "Space Armada",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/567331-space-armada",
+                    "rating": "3.41",
+                    "difficulty": "3.67",
+                    "lenght": "07.05",
+                    "vote": 5,
+                    "LaunchboxID": "4089",
+                    "LaunchboxTitle": "Space Armada"
+                },
+                "10511": {
+                    "name": "Donkey Kong Junior",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576684-donkey-kong-junior",
+                    "rating": "3.16",
+                    "difficulty": "3.06",
+                    "lenght": "03.17",
+                    "vote": 5,
+                    "LaunchboxID": "10511",
+                    "LaunchboxTitle": "Donkey Kong Junior"
+                },
+                "10509": {
+                    "name": "Dig Dug",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576728-dig-dug",
+                    "rating": "3.75",
+                    "difficulty": "2.95",
+                    "lenght": "02.53",
+                    "vote": 5,
+                    "LaunchboxID": "10509",
+                    "LaunchboxTitle": "Dig Dug"
+                },
+                "10554": {
+                    "name": "Truckin'",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577302-truckin",
+                    "rating": "3.42",
+                    "difficulty": "2.80",
+                    "lenght": "---",
+                    "vote": 5,
+                    "LaunchboxID": "10554",
+                    "LaunchboxTitle": "Truckin'"
+                },
+                "4090": {
+                    "name": "Space Battle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/566357-space-battle",
+                    "rating": "3.42",
+                    "difficulty": "3.64",
+                    "lenght": "02.71",
+                    "vote": 5,
+                    "LaunchboxID": "4090",
+                    "LaunchboxTitle": "Space Battle"
+                },
+                "4082": {
+                    "name": "Reversi",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577217-reversi",
+                    "rating": "3.63",
+                    "difficulty": "4.08",
+                    "lenght": "01.85",
+                    "vote": 5,
+                    "LaunchboxID": "4082",
+                    "LaunchboxTitle": "Reversi"
+                },
+                "10531": {
+                    "name": "Mouse Trap",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577083-mouse-trap",
+                    "rating": "3.40",
+                    "difficulty": "2.20",
+                    "lenght": "01.73",
+                    "vote": 5,
+                    "LaunchboxID": "10531",
+                    "LaunchboxTitle": "Mouse Trap"
+                },
+                "4092": {
+                    "name": "Space Spartans",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577272-space-spartans",
+                    "rating": "3.04",
+                    "difficulty": "3.61",
+                    "lenght": "08.00",
+                    "vote": 5,
+                    "LaunchboxID": "4092",
+                    "LaunchboxTitle": "Space Spartans"
+                },
+                "4052": {
+                    "name": "Astrosmash",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576721-astrosmash",
+                    "rating": "3.81",
+                    "difficulty": "2.90",
+                    "lenght": "15.93",
+                    "vote": 50,
+                    "LaunchboxID": "4052",
+                    "LaunchboxTitle": "Astrosmash"
+                },
+                "10513": {
+                    "name": "The Electric Company: Math Fun",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577020-the-electric-company-math-fun",
+                    "rating": "3.57",
+                    "difficulty": "1.93",
+                    "lenght": "02.12",
+                    "vote": 5,
+                    "LaunchboxID": "10513",
+                    "LaunchboxTitle": "The Electric Company Math Fun"
+                },
+                "4062": {
+                    "name": "Demon Attack",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576578-demon-attack",
+                    "rating": "3.24",
+                    "difficulty": "3.41",
+                    "lenght": "02.33",
+                    "vote": 5,
+                    "LaunchboxID": "4062",
+                    "LaunchboxTitle": "Demon Attack"
+                },
+                "10505": {
+                    "name": "Checkers",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576426-checkers",
+                    "rating": "3.43",
+                    "difficulty": "2.64",
+                    "lenght": "02.44",
+                    "vote": 5,
+                    "LaunchboxID": "10505",
+                    "LaunchboxTitle": "Checkers"
+                },
+                "10560": {
+                    "name": "World Series Major League Baseball",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577347-world-series-major-league-baseball",
+                    "rating": "3.50",
+                    "difficulty": "3.00",
+                    "lenght": "18.25",
+                    "vote": 5,
+                    "LaunchboxID": "10560",
+                    "LaunchboxTitle": "World Series Major League Baseball"
+                },
+                "10501": {
+                    "name": "Blockade Runner",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576406-blockade-runner",
+                    "rating": "3.21",
+                    "difficulty": "3.10",
+                    "lenght": "02.94",
+                    "vote": 5,
+                    "LaunchboxID": "10501",
+                    "LaunchboxTitle": "Blockade Runner"
+                },
+                "10515": {
+                    "name": "Fathom",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576790-fathom",
+                    "rating": "3.36",
+                    "difficulty": "3.43",
+                    "lenght": "02.36",
+                    "vote": 5,
+                    "LaunchboxID": "10515",
+                    "LaunchboxTitle": "Fathom"
+                },
+                "10504": {
+                    "name": "Championship Tennis",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576423-championship-tennis",
+                    "rating": "3.63",
+                    "difficulty": "2.33",
+                    "lenght": "16.21",
+                    "vote": 5,
+                    "LaunchboxID": "10504",
+                    "LaunchboxTitle": "Championship Tennis"
+                },
+                "4079": {
+                    "name": "Pitfall!",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577189-pitfall",
+                    "rating": "3.71",
+                    "difficulty": "3.84",
+                    "lenght": "04.54",
+                    "vote": 5,
+                    "LaunchboxID": "4079",
+                    "LaunchboxTitle": "Pitfall!"
+                },
+                "4077": {
+                    "name": "Night Stalker",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576735-night-stalker",
+                    "rating": "3.86",
+                    "difficulty": "3.51",
+                    "lenght": "06.18",
+                    "vote": 50,
+                    "LaunchboxID": "4077",
+                    "LaunchboxTitle": "Night Stalker"
+                },
+                "4080": {
+                    "name": "Las Vegas Poker & Blackjack",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/567617-las-vegas-poker-and-blackjack",
+                    "rating": "3.46",
+                    "difficulty": "2.32",
+                    "lenght": "05.88",
+                    "vote": 5,
+                    "LaunchboxID": "4080",
+                    "LaunchboxTitle": "Las Vegas Poker & Blackjack"
+                },
+                "10518": {
+                    "name": "Hover Force",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576732-hover-force",
+                    "rating": "3.82",
+                    "difficulty": "3.23",
+                    "lenght": "02.75",
+                    "vote": 5,
+                    "LaunchboxID": "10518",
+                    "LaunchboxTitle": "Hover Force"
+                },
+                "10523": {
+                    "name": "Ice Trek",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576911-ice-trek",
+                    "rating": "3.10",
+                    "difficulty": "3.00",
+                    "lenght": "02.36",
+                    "vote": 5,
+                    "LaunchboxID": "10523",
+                    "LaunchboxTitle": "Ice Trek"
+                },
+                "10530": {
+                    "name": "Mountain Madness: Super Pro Skiing",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577061-mountain-madness-super-pro-skiing",
+                    "rating": "4.00",
+                    "difficulty": "3.44",
+                    "lenght": "02.69",
+                    "vote": 5,
+                    "LaunchboxID": "10530",
+                    "LaunchboxTitle": "Mountain Madness: Super Pro Skiing"
+                },
+                "4103": {
+                    "name": "Utopia",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/563050-utopia",
+                    "rating": "3.88",
+                    "difficulty": "3.21",
+                    "lenght": "30.90",
+                    "vote": 5,
+                    "LaunchboxID": "4103",
+                    "LaunchboxTitle": "Utopia"
+                },
+                "10552": {
+                    "name": "Tower of Doom",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576742-tower-of-doom",
+                    "rating": "3.46",
+                    "difficulty": "3.30",
+                    "lenght": "06.75",
+                    "vote": 5,
+                    "LaunchboxID": "10552",
+                    "LaunchboxTitle": "Tower of Doom"
+                },
+                "25964": {
+                    "name": "Carnival",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/565581-carnival",
+                    "rating": "3.32",
+                    "difficulty": "2.85",
+                    "lenght": "04.33",
+                    "vote": 5,
+                    "LaunchboxID": "25964",
+                    "LaunchboxTitle": "Carnival"
+                },
+                "10550": {
+                    "name": "Duncan's Thin Ice",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576753-duncans-thin-ice",
+                    "rating": "3.67",
+                    "difficulty": "3.75",
+                    "lenght": "03.45",
+                    "vote": 5,
+                    "LaunchboxID": "10550",
+                    "LaunchboxTitle": "Duncan's Thin Ice"
+                },
+                "10549": {
+                    "name": "Super Pro Football",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576739-super-pro-football",
+                    "rating": "3.14",
+                    "difficulty": "3.40",
+                    "lenght": "17.29",
+                    "vote": 5,
+                    "LaunchboxID": "10549",
+                    "LaunchboxTitle": "Super Pro Football"
+                },
+                "142310": {
+                    "name": "Santa's Helper",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577244-santas-helper",
+                    "rating": "3.14",
+                    "difficulty": "2.67",
+                    "lenght": "03.60",
+                    "vote": 5,
+                    "LaunchboxID": "142310",
+                    "LaunchboxTitle": "Santa's Helper"
+                },
+                "10279": {
+                    "name": "Venture",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577305-venture",
+                    "rating": "3.88",
+                    "difficulty": "2.86",
+                    "lenght": "01.96",
+                    "vote": 5,
+                    "LaunchboxID": "10279",
+                    "LaunchboxTitle": "Venture"
+                },
+                "26160": {
+                    "name": "Pac-Man",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577135-pac-man",
+                    "rating": "4.11",
+                    "difficulty": "3.09",
+                    "lenght": "20.10",
+                    "vote": 5,
+                    "LaunchboxID": "26160",
+                    "LaunchboxTitle": "Pac-Man"
+                },
+                "4051": {
+                    "name": "Armor Battle",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/562924-armor-battle",
+                    "rating": "3.42",
+                    "difficulty": "2.75",
+                    "lenght": "09.50",
+                    "vote": 5,
+                    "LaunchboxID": "4051",
+                    "LaunchboxTitle": "Armor Battle"
+                },
+                "10506": {
+                    "name": "Chip Shot Super Pro Golf",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576727-chip-shot-super-pro-golf",
+                    "rating": "4.13",
+                    "difficulty": "2.79",
+                    "lenght": "11.92",
+                    "vote": 5,
+                    "LaunchboxID": "10506",
+                    "LaunchboxTitle": "Chip Shot: Super Pro Golf"
+                },
+                "4091": {
+                    "name": "Space Hawk",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577271-space-hawk",
+                    "rating": "3.30",
+                    "difficulty": "3.39",
+                    "lenght": "09.79",
+                    "vote": 5,
+                    "LaunchboxID": "4091",
+                    "LaunchboxTitle": "Space Hawk"
+                },
+                "4102": {
+                    "name": "Tropical Trouble",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577300-tropical-trouble",
+                    "rating": "3.46",
+                    "difficulty": "3.00",
+                    "lenght": "02.44",
+                    "vote": 5,
+                    "LaunchboxID": "4102",
+                    "LaunchboxTitle": "Tropical Trouble"
+                },
+                "4061": {
+                    "name": "Buzz Bombers",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576419-buzz-bombers",
+                    "rating": "3.40",
+                    "difficulty": "2.50",
+                    "lenght": "02.23",
+                    "vote": 5,
+                    "LaunchboxID": "4061",
+                    "LaunchboxTitle": "Buzz Bombers"
+                },
+                "10514": {
+                    "name": "The Electric Company: Word Fun",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577307-the-electric-company-word-fun",
+                    "rating": "3.18",
+                    "difficulty": "1.56",
+                    "lenght": "04.36",
+                    "vote": 5,
+                    "LaunchboxID": "10514",
+                    "LaunchboxTitle": "The Electric Company Word Fun"
+                },
+                "10517": {
+                    "name": "Happy Trails",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576861-happy-trails",
+                    "rating": "3.33",
+                    "difficulty": "3.00",
+                    "lenght": "02.64",
+                    "vote": 5,
+                    "LaunchboxID": "10517",
+                    "LaunchboxTitle": "Happy Trails"
+                },
+                "10503": {
+                    "name": "Centipede",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576420-centipede",
+                    "rating": "3.27",
+                    "difficulty": "3.04",
+                    "lenght": "09.66",
+                    "vote": 5,
+                    "LaunchboxID": "10503",
+                    "LaunchboxTitle": "Centipede"
+                },
+                "4072": {
+                    "name": "Loco-Motion",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576983-loco-motion",
+                    "rating": "3.50",
+                    "difficulty": "2.58",
+                    "lenght": "02.15",
+                    "vote": 5,
+                    "LaunchboxID": "4072",
+                    "LaunchboxTitle": "Loco-Motion"
+                },
+                "4076": {
+                    "name": "Hockey",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576887-hockey",
+                    "rating": "3.42",
+                    "difficulty": "2.71",
+                    "lenght": "13.22",
+                    "vote": 5,
+                    "LaunchboxID": "4076",
+                    "LaunchboxTitle": "NHL Hockey"
+                },
+                "25965": {
+                    "name": "Congo Bongo",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576506-congo-bongo",
+                    "rating": "3.19",
+                    "difficulty": "3.20",
+                    "lenght": "04.19",
+                    "vote": 5,
+                    "LaunchboxID": "25965",
+                    "LaunchboxTitle": "Congo Bongo"
+                },
+                "4071": {
+                    "name": "Lock 'n' Chase",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/576733-lock-n-chase",
+                    "rating": "3.59",
+                    "difficulty": "2.86",
+                    "lenght": "04.77",
+                    "vote": 5,
+                    "LaunchboxID": "4071",
+                    "LaunchboxTitle": "Lock 'n' Chase"
+                },
+                "10555": {
+                    "name": "Turbo",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577303-turbo",
+                    "rating": "3.32",
+                    "difficulty": "3.60",
+                    "lenght": "07.93",
+                    "vote": 5,
+                    "LaunchboxID": "10555",
+                    "LaunchboxTitle": "Turbo"
+                },
+                "4101": {
+                    "name": "Tron: Solar Sailer",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577299-tron-solar-sailer",
+                    "rating": "3.18",
+                    "difficulty": "3.88",
+                    "lenght": "07.79",
+                    "vote": 5,
+                    "LaunchboxID": "4101",
+                    "LaunchboxTitle": "Tron: Solar Sailer"
+                },
+                "4085": {
+                    "name": "Shark! Shark!",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577246-shark-shark",
+                    "rating": "3.91",
+                    "difficulty": "3.26",
+                    "lenght": "03.71",
+                    "vote": 5,
+                    "LaunchboxID": "4085",
+                    "LaunchboxTitle": "Shark! Shark!"
+                },
+                "10562": {
+                    "name": "Zaxxon",
+                    "url": "https:\/\/gamefaqs.gamespot.com\/intellivision\/577364-zaxxon",
+                    "rating": "3.17",
+                    "difficulty": "3.33",
+                    "lenght": "03.31",
+                    "vote": 5,
+                    "LaunchboxID": "10562",
+                    "LaunchboxTitle": "Zaxxon"
+                }
+            }
